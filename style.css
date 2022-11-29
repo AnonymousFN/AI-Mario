@@ -1,0 +1,37 @@
+.h{
+bottom: 0;
+position: fixed;
+width: 100%;
+background-color:yellow;
+text-align: center;
+font-size: 25px;
+}
+.b{
+width: 100%;
+position: fixed;
+top: 0;
+}
+.header{
+float: left;
+}
+.instructions{
+float: right;
+margin-top: 10px;
+}
+.marioimage{
+width: 100%;
+
+}
+.a{
+display: inline-block;
+width: 37%;
+}
+.f{
+font-weight: bolder;
+}
+video{
+background:url("game_console.png");
+background-size:cover;
+background-position: center;
+padding: 20px;
+}
