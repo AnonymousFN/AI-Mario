@@ -31,6 +31,7 @@ noseY=results[0].pose.nose.y
 
 
 function draw() {
+
 	game()
 }
 
